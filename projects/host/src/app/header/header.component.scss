@@ -1,0 +1,20 @@
+/* Estilos para el toolbar */
+.spacer {
+    flex: 1 1 auto;
+  }
+  
+  .company-icon {
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+  }
+  
+  .nav-btns {
+    display: flex;
+    gap: 8px;
+  }
+  
+  /* Opcional: Estilos para los botones activos */
+  .nav-btn.active {
+    background-color: rgba(255, 255, 255, 0.2);
+  }

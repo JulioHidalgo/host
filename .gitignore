@@ -1,0 +1,57 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Angular build output
+dist/
+**/dist/
+out-tsc/
+.angular/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Coverage
+coverage/
+**/coverage/
+
+# Source maps
+*.js.map
+*.css.map
+
+# Compiled output
+*.class
+*.war
+*.jar
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Heroku and Procfile are committed; do NOT ignore Procfile
+# If you have a local Procfile.dev, you can ignore it:
+Procfile.dev
