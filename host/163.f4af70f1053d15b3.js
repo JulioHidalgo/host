@@ -1,0 +1,1 @@
+(self.webpackChunkhost=self.webpackChunkhost||[]).push([[163],{2163:(u,s,n)=>{n.r(s),n.d(s,{VERSION:()=>o});const o=new(n(2331).Version)("17.3.10")}}]);
